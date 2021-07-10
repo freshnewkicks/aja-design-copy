@@ -1,0 +1,11 @@
+/* variables */
+
+:root {
+    --body-color: rgb(229, 229, 229);
+    --main-nav-color: rgb(0, 0, 0);
+    --main-bg-color: rgb(255, 255, 255);
+    --main-hero-color: rgb(86, 132, 133);
+    --main-font-color: rgb(108, 115, 123);
+    --sub-font-color: rgb(52, 93, 71);
+    --secondary-sub-font-color: rgb(81, 80, 80);
+}
